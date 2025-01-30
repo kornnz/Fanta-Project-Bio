@@ -1,0 +1,112 @@
+  _______________________ H_
+ |
+ |                             , H10 Uncultured bacterium clone ncd490...
+ |                             |
+ |                             |, H7 Uncultured bacterium clone ncd947e...
+ |                             ||
+ |                             ,| B2 Uncultured bacterium clone ncd947e...
+ |                             ||
+ |                             || A10 Uncultured bacterium clone ncd947...
+ |                             |
+ |                             |, B6 Uncultured bacterium clone ncd2809...
+ |                             ||
+ |                             || O10 Uncultured bacterium clone ncd280...
+ |                             ||
+ |                         ____|| H5 Uncultured bacterium clone ncd2809...
+ |                        |    |
+ |                        |    | H8 Uncultured bacterium clone nbw114g...
+ |                        |    |
+ |                        |    , A4 Uncultured bacterium clone ncd1733...
+ |                        |    |
+ |                   _____|    | A2 Uncultured bacterium clone ncd1710...
+ |                  |     |    |
+ |                  |     |    | A3 Uncultured bacterium clone nbw542a...
+ |                  |     |    |
+_|                  |     |    | A5 Uncultured bacterium clone ncd1687...
+ |                  |     |
+ |                  |     |   , B_
+ |                  |     |___|
+ |                  |         | A_
+ |                  |
+ |                  |     ____ Alysiella crassa strain IAM 14969
+ |                  |    |
+ |                  |    |      _ O9 Neisseria dumasiana strain 93087
+ |                  |    |     |
+ |                  |    |     | , A6 Neisseria shayeganii strain CCUG 5...
+ |                  |    |     | |
+ |                  |    |     | | B9 Neisseria shayeganii strain CCUG 5...
+ |                  |    |     | |
+ |                  |    |     |,| O7 Neisseria shayeganii strain CCUG 5...
+ |                  |    |     |||
+ |                  |    |     ||| F7 Neisseria shayeganii strain CCUG 5...
+ |                  |    |    _||
+ |                  |    |   | ||, F6 Neisseria shayeganii 871 strain WC...
+ |                  |    |   | |||
+ |                  |    |   | ||| F5 Neisseria gonorrhoeae strain BLPS18
+ |                  |    |   | |||
+ |                  |    |   | ||| B8 Neisseria shayeganii 871 strain WC...
+ |                  |    |   | |||
+ |__________________|   _|   | ||| H9 Neisseria gonorrhoeae strain BLPS18
+                    |  | |   | |||
+                    |  | |   | ||| B7 Neisseria gonorrhoeae strain BLPS18
+                    |  | |   |  ||
+                    |  | |   |  || A8 Neisseria shayeganii 871 strain WC...
+                    |  | |   |  ||
+                    |  | |   |  || O5 Neisseria gonorrhoeae strain BLPS18
+                    |  | |   |  ||
+                    |  | |   |  || O6 Neisseria shayeganii 871 strain WC...
+                    |  | |   |  ||
+                    |  | |   |  || A7 Neisseria gonorrhoeae strain BLPS18
+                    |  | |   |  ||
+                    |  | |   |  ||, B4 Neisseria shayeganii strain 4722
+                    |  | |   |  |||
+                    |  | |   |  ||| F3 Neisseria shayeganii strain 4722
+                    |  | |   |   ||
+                    |  | |   |   ,| O3 Neisseria shayeganii strain 4722
+                    |  | |   |   ||
+                    |  | |___|   || H2 Neisseria shayeganii strain 4722
+                    |  |     |   |
+                    |  |     |   |, B3 Neisseria shayeganii strain WC 04-...
+                    |  |     |   ||
+                    |  |     |   || O2 Neisseria shayeganii strain WC 04-...
+                    |  |     |   ||
+                    |  |     |   || F2 Neisseria shayeganii strain WC 04-...
+                    |  |     |    |
+                    |  |     |    | H3 Neisseria shayeganii strain WC 04-...
+                    |  |     |
+                    |__|     |   , O4Neisseria shayeganii clone TE097
+                       |     |   |
+                       |     |   | H4 Neisseria shayeganii clone TE097
+                       |     |   |
+                       |     |   | F4 Neisseria shayeganii clone TE097
+                       |     |   |
+                       |     |   | B5 Neisseria shayeganii clone TE097
+                       |     |   |
+                       |     |   , F1 Neisseria shayeganii canine oral t...
+                       |     |   |
+                       |     |   | H1 Neisseria shayeganii canine oral t...
+                       |     |   |
+                       |     |   | B1 Neisseria shayeganii canine oral t...
+                       |     |   |
+                       |     |   | O1 Neisseria shayeganii canine oral t...
+                       |     |___|
+                       |         | A9 Neisseria shayeganii canine oral t...
+                       |         |
+                       |         , A1 Neisseria shayeganii clone TM092
+                       |         |
+                       |         | B10 Neisseria shayeganii clone TM092
+                       |         |
+                       |         | F8 Neisseria shayeganii clone TM092
+                       |         |
+                       |         | O8 Neisseria shayeganii clone TM092
+                       |
+                       |     __ F_
+                       |    |
+                       |    |__ O_
+                       |____|
+                            |__ F10 Neisseria mucosa strain 269A
+                            |
+                            |  , H6 Neisseria sp. SMC-A9199
+                            |__|
+                               | F9 Neisseria sp. SMC-A9199
+
