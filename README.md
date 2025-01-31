@@ -9,4 +9,5 @@ https://github.com/taylor-lindsay/phylogenetics/tree/master
 
 https://github.com/PrinnRinz/fasta_hell_cheewa/tree/master
 
+and Chat gpt
 ###### Also you can copy if you are Gay
